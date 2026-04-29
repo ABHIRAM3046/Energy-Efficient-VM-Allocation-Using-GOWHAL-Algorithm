@@ -1,4 +1,4 @@
-# Energy-Efficient VM Allocation Using GOWHAL Algorithm
+# Energy-Efficient Virtual Machine Allocation Using GOWHAL Algorithm
 
 ## Overview
 This project implements an energy-efficient Virtual Machine (VM) allocation strategy for cloud data centers using metaheuristic optimization algorithms in CloudSim.
